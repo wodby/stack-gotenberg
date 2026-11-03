@@ -1,6 +1,7 @@
 name: gotenberg
 title: Gotenberg
 icon: gotenberg
+docs: https://wodby.com/docs/2.0/stacks/catalog/gotenberg/
 
 services:
 - name: gotenberg
